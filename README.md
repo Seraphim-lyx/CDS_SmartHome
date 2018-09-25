@@ -1,2 +1,1 @@
-CDS_HEMS
-Cooperative Distributed System
+#A cooperated Smart Home System DEMO developed by JADE framework.
